@@ -1,2 +1,2 @@
-# TrainingJuly18
-This is a first commit of my learning for Automation framework designing training.
+# webtest
+This is a first application to work with aws amazon cloud.
